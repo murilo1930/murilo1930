@@ -1,16 +1,16 @@
-## Hi there 👋
+## boas vindas ao meu perfil!
 
-<!--
-**murilo1930/murilo1930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu me chamo Murilo Silva 
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+  ### você entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  murilosilvaalves2007@gmail.com
+  
+  @muriloo.prq
+
+
+  <img src="https://media1.tenor.com/m/v60kUjoud9QAAAAC/zubeldia-zubeldizado.gif" alt="Zubeldia Zubeldizado GIF - Zubeldia Zubeldizado Tricolor GIFs"/>!
